@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  TP2
+
+  Created by digital on 06/06/2023.
+  
+*/
+"film-list.all-categories" = "Categories";
+"film-detail.date" = "Date : ";
+"film-detail.duration" = "Durée : ";
+"%lld film-detail.minutes" = "%lld minutes";
+"film-detail.resume" = "Synopsis : ";
